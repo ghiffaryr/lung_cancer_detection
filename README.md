@@ -2,7 +2,7 @@
 Repository for lung cancer classification
 # Model
 The models that had been used:
-* Deep ConvolutionalNeural Network (DCNN)
+* Deep Convolutional Neural Network (DCNN)
 * fine-tuned ResNet 50V2
 * fine-tuned Xception
 # Dataset
