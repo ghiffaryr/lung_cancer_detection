@@ -1,5 +1,5 @@
 # lung_cancer_detection
-Repository for lung cancer classification of the academic paper entitled [Computer-Aided Detection of Lung Cancer from CT-scan Images with Visual Insights using Deep Convolutional Neural Network](https://www.researchgate.net/publication/355647879_Computer-Aided_Detection_of_Lung_Cancer_from_CT-scan_Images_with_Visual_Insights_using_Deep_Convolutional_Neural_Network)
+Repository for lung cancer classification of the conference paper entitled [Computer-Aided Detection of Lung Cancer from CT-scan Images with Visual Insights using Deep Convolutional Neural Network](https://www.researchgate.net/publication/355647879_Computer-Aided_Detection_of_Lung_Cancer_from_CT-scan_Images_with_Visual_Insights_using_Deep_Convolutional_Neural_Network)
 # Model
 The models that had been used:
 * Deep Convolutional Neural Network (DCNN)
